@@ -1,5 +1,5 @@
 # python-tutorials
-A collection of notebooks on vectorization and graphs in python.
+A collection of notebooks on vectorization and graphs in python. You can open them directly in google colab.
 
 ## Vectorization-in-Python
 Vectorization refers to the style of coding where operations are applied to the whole array instead of individual elements. You can read more about vectorization on this link __[this link](https://en.wikipedia.org/wiki/Array_programming)__.
