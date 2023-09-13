@@ -13,3 +13,6 @@ This notebook shows how to visualize graphs in python using `NetworkX` and `Matp
 
 ## [knn_graph.ipynb](https://github.com/mashaan14/python-tutorials/blob/main/knn_graph.ipynb)
 `scikit-learn` helps us to construct $k$-nn graphs. This notebook uses 2D data to construct and visualize $k$-nn graphs.
+
+## [kmeans_numpy.ipynb](https://github.com/mashaan14/python-tutorials/blob/main/kmeans_numpy.ipynb)
+Coding $k$-menas using numpy functions.
