@@ -4,7 +4,6 @@ A collection of notebooks on array vectorization and graphs in python.
 | Algorithm |&nbsp;|&nbsp;|&nbsp;|
 | :--- | :--- | :---: | :---: |
 | Vectorization in $k$-means clustering | This example shows a vectorized way on how to compute the distance from points to the centroids in $k$-means clustering. | [code](https://github.com/mashaan14/python-tutorials/blob/main/Vectorization_01.ipynb) | [video](https://youtube.com/shorts/K4GjsVPy9KY?feature=share) |
-
 | Label Propagation using vectorization | This example shows a simple problem of propagating labels from $k$-means centroids to the rest of the dataset. A label will be assigned simply based on the minimum distance. | [code](https://github.com/mashaan14/python-tutorials/blob/main/Vectorization_02.ipynb) | [video](https://youtube.com/shorts/K4GjsVPy9KY?feature=share) |
 
 ## [Vectorization_01.ipynb](https://github.com/mashaan14/python-tutorials/blob/main/Vectorization_01.ipynb)
