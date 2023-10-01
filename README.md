@@ -2,7 +2,7 @@
 A collection of notebooks on array vectorization and graphs in python.
 
 | Algorithm |&nbsp;|&nbsp;|
-| :--- | | :--- | :---: | :---: |
+| :--- | :--- | :---: | :---: |
 | Principal Component Analysis ($PCA$) | Vectorization refers to the style of coding where operations are applied to the whole array instead of individual elements. You can read more about vectorization on this link __[this link](https://en.wikipedia.org/wiki/Array_programming)__. This example shows a vectorized way on how to compute the distance from points to the centroids in $k$-means clustering. | [code](https://github.com/mashaan14/only-numpy/blob/main/only_numpy_pca.ipynb) | [video](https://youtube.com/shorts/K4GjsVPy9KY?feature=share) |
 
 ## [Vectorization_01.ipynb](https://github.com/mashaan14/python-tutorials/blob/main/Vectorization_01.ipynb)
